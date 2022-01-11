@@ -1,0 +1,6 @@
+# Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805 - freedomtech.solutions - FTS120_17 PIA LV_NJ - Internal. SUBNET,COUNTRY,CITY
+# Freedomtech solutions Geofeed,lastupdated (rfc3339): 12/01/2022
+102.129.146.0/24	Las Vegas
+102.129.222.0/24	Las Vegas
+102.129.223.0/24	New Jersey
+191.96.21.0/24	New Jersey

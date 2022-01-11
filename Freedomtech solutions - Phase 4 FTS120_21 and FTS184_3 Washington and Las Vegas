@@ -1,0 +1,6 @@
+# Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805 - freedomtech.solutions - Phase 4 FTS120_21 and FTS184_3 Washington and Las Vegas. SUBNET,COUNTRY,CITY
+# Freedomtech solutions Geofeed,lastupdated (rfc3339): 11/01/2022
+102.165.48.0/24	Washington
+154.16.49.0/24	Washington
+154.16.105.0/24	Las Vegas
+191.101.61.0/24	Las Vegas

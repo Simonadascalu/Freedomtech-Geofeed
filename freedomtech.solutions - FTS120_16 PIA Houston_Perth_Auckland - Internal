@@ -1,4 +1,4 @@
-# Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805 - freedomtech.solutions - FTS120_16 PIA Houston_Perth_Auckland - Internal. SUBNET,COUNTRY,CITY,AS NUMBER
+# Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805 - freedomtech.solutions - FTS120_16 PIA Houston_Perth_Auckland - Internal. SUBNET,COUNTRY,CITY
 # Freedomtech solutions Geofeed,lastupdated (rfc3339): 07/01/2022
 181.214.227.0/24,US,US-TX,Houston,
 191.96.67.0/24,US,US-TX,Houston,

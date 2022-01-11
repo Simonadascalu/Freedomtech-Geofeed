@@ -1,0 +1,22 @@
+# Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805 - freedomtech.solutions - FTS183 CG 20xS24 - Internal. SUBNET,COUNTRY,CITY
+# Freedomtech solutions Geofeed,lastupdated (rfc3339): 11/01/2022
+154.16.199.0	Los Angeles 
+191.101.196.0	Los Angeles 
+191.101.197.0	Los Angeles 
+154.16.224.0	New York
+181.214.139.0	New York
+191.96.212.0	New York
+181.214.235.0	New York
+154.16.197.0	Chicago
+154.16.198.0	Chicago
+154.16.29.0	FRANKFURT
+154.16.97.0	FRANKFURT
+154.16.165.0	FRANKFURT
+154.16.172.0	FRANKFURT
+102.165.17.0	LONDON
+179.61.193.0	LONDON
+179.61.201.0	Manchester
+45.95.37.0	Montreal
+154.16.178.0	Montreal
+154.16.201.0	Paris
+191.101.128.0	Paris

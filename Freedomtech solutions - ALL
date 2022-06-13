@@ -188,3 +188,6 @@
 45.88.97.0/24,DE,DE-HE,Frankfurt,
 216.24.213.0/24,DE,DE-HE,Frankfurt,
 216.24.216.0/24,DE,DE-HE,Frankfurt,
+102.165.42.0/24,CA,CA-BC,Vancouver,
+191.96.191.0/24,US,US-NY,New York,
+191.96.62.0/24,US,US-DC,"Washington, D.C.",

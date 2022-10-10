@@ -1,5 +1,5 @@
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805 - Freedomtech.solutions - ALL. SUBNET,COUNTRY,REGION,CITY
-# Freedomtech solutions Geofeed,lastupdated (rfc3339): 08/10/2022
+# Freedomtech solutions Geofeed,lastupdated (rfc3339): 10/10/2022
 102.129.146.0/24,US,US-NV,Las Vegas,
 102.129.222.0/24,US,US-NV,Las Vegas,
 102.129.223.0/24,US,US-NJ,New Jersey,
@@ -245,3 +245,24 @@
 191.96.37.0/24,US,US-WA,Seattle,
 191.101.155.0/24,FR,FR-75,Paris,
 191.101.170.0/24,FR,FR-75,Paris,
+193.227.125.0/24,CA,CA-QC,Montreal,
+89.19.45.0/24,CA,CA-ON,Toronto,
+154.16.120.0/24,US,US-NV,Las Vegas,
+181.214.122.0/24,US,US-AZ,Phoenix,
+102.129.174.0/24,US,US-TX,Dallas,
+154.16.185.0/24,US,US-NY,New York,
+102.129.228.0/24,GB,GB-LND,London,
+181.214.43.0/24,AU,AU-NSW,Sydney,
+154.16.17.0/24,SG,SG-01,Singapore,
+154.16.77.0/24,DE,DE-HE,Frankfurt,
+154.16.187.0/24,US,US-NY,New York,
+191.101.169.0/24,FR,FR-75,Paris,
+102.129.175.0/24,US,US-DC,"Washington, D.C.",
+102.129.239.0/24,GB,GB-LND,London,
+102.129.181.0/24,US,US-CA,Los Angeles,
+
+
+
+
+
+
